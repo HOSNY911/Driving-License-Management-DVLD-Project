@@ -1,0 +1,6 @@
+C:\All C#\Project And Cours 19 C#\قبل المشروع\DVLD - Database Layer\bin\Debug\DVLD - Database Layer.dll
+C:\All C#\Project And Cours 19 C#\قبل المشروع\DVLD - Database Layer\bin\Debug\DVLD - Database Layer.pdb
+C:\All C#\Project And Cours 19 C#\قبل المشروع\DVLD - Database Layer\obj\Debug\DVLD - Database Layer.csproj.AssemblyReference.cache
+C:\All C#\Project And Cours 19 C#\قبل المشروع\DVLD - Database Layer\obj\Debug\DVLD - Database Layer.csproj.CoreCompileInputs.cache
+C:\All C#\Project And Cours 19 C#\قبل المشروع\DVLD - Database Layer\obj\Debug\DVLD - Database Layer.dll
+C:\All C#\Project And Cours 19 C#\قبل المشروع\DVLD - Database Layer\obj\Debug\DVLD - Database Layer.pdb

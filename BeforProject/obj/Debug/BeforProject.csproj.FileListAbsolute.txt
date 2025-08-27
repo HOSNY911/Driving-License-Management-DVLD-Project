@@ -1,0 +1,15 @@
+C:\All C#\Project And Cours 19 C#\قبل المشروع\BeforProject\bin\Debug\BeforProject.exe.config
+C:\All C#\Project And Cours 19 C#\قبل المشروع\BeforProject\bin\Debug\BeforProject.exe
+C:\All C#\Project And Cours 19 C#\قبل المشروع\BeforProject\bin\Debug\BeforProject.pdb
+C:\All C#\Project And Cours 19 C#\قبل المشروع\BeforProject\obj\Debug\BeforProject.csproj.AssemblyReference.cache
+C:\All C#\Project And Cours 19 C#\قبل المشروع\BeforProject\obj\Debug\BeforProject.CtrlSimpleCalcolator.resources
+C:\All C#\Project And Cours 19 C#\قبل المشروع\BeforProject\obj\Debug\BeforProject.Form1.resources
+C:\All C#\Project And Cours 19 C#\قبل المشروع\BeforProject\obj\Debug\BeforProject.Properties.Resources.resources
+C:\All C#\Project And Cours 19 C#\قبل المشروع\BeforProject\obj\Debug\BeforProject.csproj.GenerateResource.cache
+C:\All C#\Project And Cours 19 C#\قبل المشروع\BeforProject\obj\Debug\BeforProject.csproj.CoreCompileInputs.cache
+C:\All C#\Project And Cours 19 C#\قبل المشروع\BeforProject\obj\Debug\BeforProject.exe
+C:\All C#\Project And Cours 19 C#\قبل المشروع\BeforProject\obj\Debug\BeforProject.pdb
+C:\All C#\Project And Cours 19 C#\قبل المشروع\BeforProject\obj\Debug\BeforProject.exe.config
+C:\All C#\Project And Cours 19 C#\قبل المشروع\BeforProject\obj\Debug\BeforProject.Form2.resources
+C:\All C#\Project And Cours 19 C#\قبل المشروع\BeforProject\obj\Debug\BeforProject.Form3.resources
+C:\All C#\Project And Cours 19 C#\قبل المشروع\BeforProject\obj\Debug\BeforProject.Eventt.resources

@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|c:\\all c#\\project and cours 19 c#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\beforproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\eventt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|solutionrelative:eventt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\eventt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|solutionrelative:eventt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\ctrlsimplecalcolator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|solutionrelative:ctrlsimplecalcolator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\usercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|solutionrelative:usercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\ctrlsimplecalcolator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|solutionrelative:ctrlsimplecalcolator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\usercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|solutionrelative:usercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\ctrlsimplecalcolator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06FA40B-CC50-4190-B4C3-CF8F9F650BC6}|BeforProject.csproj|solutionrelative:ctrlsimplecalcolator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Eventt.cs",
+              "DocumentMoniker": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\Eventt.cs",
+              "RelativeDocumentMoniker": "Eventt.cs",
+              "ToolTip": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\Eventt.cs",
+              "RelativeToolTip": "Eventt.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:28:27.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Eventt.cs [Design]",
+              "DocumentMoniker": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\Eventt.cs",
+              "RelativeDocumentMoniker": "Eventt.cs",
+              "ToolTip": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\Eventt.cs [Design]",
+              "RelativeToolTip": "Eventt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:28:03.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:42:18.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:36:39.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:36:33.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:35:35.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserControls.cs",
+              "DocumentMoniker": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\UserControls.cs",
+              "RelativeDocumentMoniker": "UserControls.cs",
+              "ToolTip": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\UserControls.cs",
+              "RelativeToolTip": "UserControls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:03:11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:47:57.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CtrlSimpleCalcolator.Designer.cs",
+              "DocumentMoniker": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\CtrlSimpleCalcolator.Designer.cs",
+              "RelativeDocumentMoniker": "CtrlSimpleCalcolator.Designer.cs",
+              "ToolTip": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\CtrlSimpleCalcolator.Designer.cs",
+              "RelativeToolTip": "CtrlSimpleCalcolator.Designer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAIAxwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:27:43.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CtrlSimpleCalcolator.cs",
+              "DocumentMoniker": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\CtrlSimpleCalcolator.cs",
+              "RelativeDocumentMoniker": "CtrlSimpleCalcolator.cs",
+              "ToolTip": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\CtrlSimpleCalcolator.cs",
+              "RelativeToolTip": "CtrlSimpleCalcolator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:27:37.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CtrlSimpleCalcolator.cs [Design]",
+              "DocumentMoniker": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\CtrlSimpleCalcolator.cs",
+              "RelativeDocumentMoniker": "CtrlSimpleCalcolator.cs",
+              "ToolTip": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\CtrlSimpleCalcolator.cs [Design]",
+              "RelativeToolTip": "CtrlSimpleCalcolator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:25:12.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControls.cs [Design]",
+              "DocumentMoniker": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\UserControls.cs",
+              "RelativeDocumentMoniker": "UserControls.cs",
+              "ToolTip": "C:\\All C#\\Project And Cours 19 C#\\\u0642\u0628\u0644 \u0627\u0644\u0645\u0634\u0631\u0648\u0639\\BeforProject\\UserControls.cs [Design]",
+              "RelativeToolTip": "UserControls.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:22:11.978Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

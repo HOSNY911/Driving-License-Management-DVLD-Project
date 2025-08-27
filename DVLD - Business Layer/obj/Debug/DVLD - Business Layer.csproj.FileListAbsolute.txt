@@ -1,0 +1,9 @@
+C:\All C#\Project And Cours 19 C#\قبل المشروع\DVLD - Business Layer\bin\Debug\DVLD - Business Layer.dll
+C:\All C#\Project And Cours 19 C#\قبل المشروع\DVLD - Business Layer\bin\Debug\DVLD - Business Layer.pdb
+C:\All C#\Project And Cours 19 C#\قبل المشروع\DVLD - Business Layer\bin\Debug\DVLD - Database Layer.dll
+C:\All C#\Project And Cours 19 C#\قبل المشروع\DVLD - Business Layer\bin\Debug\DVLD - Database Layer.pdb
+C:\All C#\Project And Cours 19 C#\قبل المشروع\DVLD - Business Layer\obj\Debug\DVLD - Business Layer.csproj.AssemblyReference.cache
+C:\All C#\Project And Cours 19 C#\قبل المشروع\DVLD - Business Layer\obj\Debug\DVLD - Business Layer.csproj.CoreCompileInputs.cache
+C:\All C#\Project And Cours 19 C#\قبل المشروع\DVLD - Business Layer\obj\Debug\DVLD - B.8DF47436.Up2Date
+C:\All C#\Project And Cours 19 C#\قبل المشروع\DVLD - Business Layer\obj\Debug\DVLD - Business Layer.dll
+C:\All C#\Project And Cours 19 C#\قبل المشروع\DVLD - Business Layer\obj\Debug\DVLD - Business Layer.pdb
