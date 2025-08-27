@@ -1,0 +1,7 @@
+# Visual Studio / C#
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.sln.docstates
